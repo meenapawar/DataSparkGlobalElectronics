@@ -61,6 +61,7 @@ The following SQL queries have been developed for analysis:
 ## File Structure
 - **SQLqueries.sql**: Contains all SQL queries for data retrieval and analysis.
 - **MergeSalesData.py**: Python script for preprocessing data and merging sales data from various sources.
+- **EDA.py**: Python script for Exploratory data analysis of merged sales data.
 - **LoadInSqlTable.py**: Python script to load cleaned data into SQL tables.
 - **DataSpark_PowerBI.pbix**: Power BI file with dashboards and visualizations.
 - **DataSpark_PPT.pptx**: Presentation file summarizing the project's findings and recommendations.
